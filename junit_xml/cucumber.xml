@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.849">
+    <testcase classname="Create new Organizer list" name="Create new Organizer list Test" time="25.574">
+        <system-out><![CDATA[Given user is at mail page..................................................passed
+When title page of login is Free email accounts with mail.com | Log in here or register today.passed
+Then user clicks on login button............................................passed
+Then user enters the username and password..................................passed
+Then user enters the log in button..........................................passed
+Then user is logged to home page............................................passed
+Then user clicks on to organizer button.....................................passed
+Then user clicks on add new appointment.....................................passed
+Then user enters the title and Location and Description.....................passed
+Then user quit..............................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
